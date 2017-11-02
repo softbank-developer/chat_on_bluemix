@@ -56,7 +56,7 @@ Node-REDのアプリURLにアクセスし、画面の指示に従ってエディ
 画面下部の入力欄に質問を入力し、「送信」ボタンをクリックします。
 
 
-## License
+## ライセンス
 
 [MIT](https://github.com/softbank-developer/chat_on_nodered/blob/master/LICENSE)
 
